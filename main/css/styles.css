@@ -1,6 +1,6 @@
 :root {
                 --header-image: url('https://sadhost.neocities.org/images/layouts/wp.jpeg');
-                --body-bg-image: url('https://cdn.discordapp.com/attachments/1486162340733911124/1524703004031451266/bg.png?ex=6a50b5d3&is=6a4f6453&hm=c7907a1a92cc26fd2551a80703e2a0eb99ecf6b355068745db8529f845ffaa87&');
+                --body-bg-image: url('/main/images/pink_bg.png');
 
                 /* colors */
                 --content: #2f2639;
@@ -171,7 +171,7 @@
                 order: 3;
             }
 
-            footer {
+            footer  {
                 background-color: #13092D;
                 /* background color for footer */
                 width: 100%;
